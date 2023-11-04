@@ -1,6 +1,6 @@
 ### Hi there, I'm Ashutosh Dang👋 !
 
-I'm a FullStack Developper Spring | Microservices |Angular </br>
+I'm a FullStack Developer Spring | Microservices |Angular </br>
 - 💕 I am currently Working as a Software Developer </br>
 - 😍 Passionate about web development. building scalable microservices applications </br>
 - 📫 How to reach me: create a pr against any of my public repo 😄
